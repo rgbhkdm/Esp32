@@ -1,0 +1,15 @@
+{
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "files.associations": {
+    "screen_driver.h": "c",
+    "scr_interface_driver.h": "c",
+    "esp_log.h": "c",
+    "*.inc": "c",
+    "*.ipp": "cpp",
+    "*.tcc": "cpp",
+    "ostream": "c"
+  },
+  "idf.flashType": "UART",
+  "idf.portWin": "COM1",
+  "idf.adapterTargetName": "esp32"
+}
